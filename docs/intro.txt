@@ -1,0 +1,3 @@
+Gc Algo used in python.
+http://patshaughnessy.net/2013/10/24/visualizing-garbage-collection-in-ruby-and-python
+https://rushter.com/blog/python-garbage-collector/
